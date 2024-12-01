@@ -21,7 +21,9 @@ The study aims to analyze and predict water availability in Dehradun city by add
 - **Drought Risks:** Projected decrease in drought years due to enhanced precipitation.
 
 ### Far Future Climate (2071-2100):
-- Similar trends to the near future, with continued increases in precipitation and flood risks, alongside reduced drought risks.
+- **Projected Precipitation:** Expected to increase across various scenarios (SSP1-2.6, SSP2-4.5, etc.).
+- **Flood Risks:** Higher frequency of extreme precipitation events anticipated, increasing flood risks.
+- **Drought Risks:** Projected decrease in drought years due to enhanced precipitation.
 
 ## Prospects and Applications
 
