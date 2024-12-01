@@ -24,6 +24,7 @@ The study aims to analyze and predict water availability in Dehradun city by add
 - **Projected Precipitation:** Expected to increase across various scenarios (SSP1-2.6, SSP2-4.5, etc.).
 - **Flood Risks:** Higher frequency of extreme precipitation events anticipated, increasing flood risks.
 - **Drought Risks:** Projected decrease in drought years due to enhanced precipitation.
+- Similar trends to the near future, with continued increases in precipitation and flood risks, alongside reduced drought risks.
 
 ## Prospects and Applications
 
